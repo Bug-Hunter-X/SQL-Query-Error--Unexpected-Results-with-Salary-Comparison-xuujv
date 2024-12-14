@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries involving salary comparisons. The `bug.sql` file contains a query that uses the `>` operator, which might lead to unexpected results. The `bugSolution.sql` file provides a corrected version using the `>=` operator.
